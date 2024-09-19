@@ -21,9 +21,6 @@ public class StringClass {
 		
 		System.out.println(str8.length());
 		
-
 	}
-	
-	
 
 }
