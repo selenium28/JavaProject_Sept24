@@ -8,6 +8,8 @@ public class RunClass {
 		objICICIBank.savingAc();
 		
 //		Bank obj = new Bank(); Cannot instantiate the type Bank
+		
+		Bank objBank = new ICICIBank();   // type casting
 
 	}
 
